@@ -20,7 +20,7 @@ my-it-journey/
 ├── networking/
 │   ├── access-point-troubleshooting-room-209.md
 │   ├── tracing-room-network-connection.md
-│   └── networking-concepts-and-ip-configuration.md
+│   └── networking-concepts-and-ip-configuration.md                                  
 ├── it-support/
 │   ├── hotel-management-software-reinstallation.md
 │   ├── wireless-printing-hp-deskjet-2720.md
@@ -46,6 +46,7 @@ For each practical task, I aim to record:
 3. The steps taken, where known.
 4. The outcome, without claiming results I did not verify.
 5. What I learned and what I would investigate further.
+6. 
 
 ## Important note
 

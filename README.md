@@ -35,8 +35,9 @@ my-it-journey/
 │   └── siemens-plc-observation.md
 └── internship-log/
     └── activity-summary.md
-```
-
+```internship-log/
+activity-summary.md
+2026-11-18-daily-report.md
 ## How I document each activity
 
 For each practical task, I aim to record:
